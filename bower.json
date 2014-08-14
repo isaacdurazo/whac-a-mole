@@ -1,0 +1,19 @@
+{
+  "name": "whac-a-mole",
+  "version": "0.0.0",
+  "homepage": "https://github.com/isaacdurazo/whac-a-mole",
+  "authors": [
+    "Isaac Durazo <isaacdurazo@gmail.com>"
+  ],
+  "description": "An HTML5 game about agression",
+  "keywords": [
+    "html5",
+    "game",
+    "mole"
+  ],
+  "license": "MIT Expat",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
